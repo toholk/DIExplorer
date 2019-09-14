@@ -1,0 +1,5 @@
+Comandos o ligas de interés
+
+https://developers.google.com/docs/api/quickstart/python
+
+conda install -c conda-forge google-api-python-client
